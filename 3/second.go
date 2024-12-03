@@ -38,7 +38,6 @@ func second() int {
 			result := calculate(instruction)
 			sum += result
 		}
-
 	}
 	return sum
 }
